@@ -4,6 +4,7 @@
       "name": "Cove",
       "w": [9.5, 31, -15.5],
       "maxY": 62,
+      "daytime": 0,
       "timer": 8,
       "ost": "",
       "nbs": "",
