@@ -6,7 +6,7 @@
       "maxY": 62,
       "daytime": 0,
       "timer": 8,
-      "ost": "",
+      "ost": "battle2",
       "nbs": "",
       "spawns": {
         "0": [3.4, 34, -18.5, -53, 0],
