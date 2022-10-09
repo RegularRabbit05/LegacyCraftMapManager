@@ -6,7 +6,7 @@
         "maxY": 62,
         "daytime": 0,
         "timer": 9,
-        "ost": "battle1,battle2,battle3,battle4",
+        "ost": "mg01_01,mg01_02,mg01_03,mg01_04",
         "nbs": "",
         "spawns": {
           "0": [3.4, 34, -18.5, -53, 0],
@@ -33,7 +33,7 @@
         "maxY": 80,
         "daytime": 0,
         "timer": 9,
-        "ost": "battle1,battle2,battle3,battle4",
+        "ost": "mg01_01,mg01_02,mg01_03,mg01_04",
         "nbs": "",
         "spawns": {
           "0": [-16.4, 26, -3.5, -90, 0],
