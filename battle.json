@@ -5,8 +5,8 @@
         "w": [9.5, 31, -15.5],
         "maxY": 62,
         "daytime": 0,
-        "timer": 8,
-        "ost": "MG01_01,MG01_02,MG01_03,MG01_04",
+        "timer": 9,
+        "ost": "battle1,battle2,battle3,battle4",
         "nbs": "",
         "spawns": {
           "0": [3.4, 34, -18.5, -53, 0],
@@ -32,8 +32,8 @@
         "w": [-3.5, 42, -3.5],
         "maxY": 80,
         "daytime": 0,
-        "timer": 8,
-        "ost": "MG01_01,MG01_02,MG01_03,MG01_04",
+        "timer": 9,
+        "ost": "battle1,battle2,battle3,battle4",
         "nbs": "",
         "spawns": {
           "0": [-16.4, 26, -3.5, -90, 0],
