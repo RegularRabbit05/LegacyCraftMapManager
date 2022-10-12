@@ -1,0 +1,13 @@
+{
+    "maps": {
+      "0": {
+        "name": "Canyon",
+        "w": [9.5, 31, -15.5],
+        "daytime": 0,
+        "timer": 15,
+        "ost": "mg03_01",
+        "nbs": "",
+        "triggers": "t_mg03_00.bin"
+      }
+    }
+}
